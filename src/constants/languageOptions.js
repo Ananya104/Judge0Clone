@@ -17,7 +17,7 @@ export const languageOptions = [
     label: "Bash (5.0.0)",
     value: "bash",
   },
-  {
+  { 
     id: 47,
     name: "Basic (FBC 1.07.1)",
     label: "Basic (FBC 1.07.1)",

@@ -13,6 +13,7 @@ const LanguagesDropdown = ({ onSelectChange }) => {
       onChange={(selectedOption) => onSelectChange(selectedOption)}
     />
   );
-};
+}; 
+
 
 export default LanguagesDropdown;

@@ -11,7 +11,7 @@ const monacoThemes = {
   "chrome-devtools": "Chrome DevTools",
   "clouds-midnight": "Clouds Midnight",
   clouds: "Clouds",
-  cobalt: "Cobalt",
+  cobalt: "Cobalt", 
   dawn: "Dawn",
   dreamweaver: "Dreamweaver",
   eiffel: "Eiffel",

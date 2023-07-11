@@ -15,7 +15,7 @@ export const customStyles = {
     ":hover": {
       border: "2px solid #000000",
       boxShadow: "none",
-    },
+    },   
   }),
   option: (styles) => {
     return {

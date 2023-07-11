@@ -18,7 +18,7 @@ import LanguagesDropdown from "./LanguagesDropdown";
 
 const javascriptDefault = `/**
 * Problem: Binary Search: Search a sorted array for a target value.
-*/
+*/ 
 
 // Time: O(log n)
 const binarySearch = (arr, target) => {
