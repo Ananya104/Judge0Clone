@@ -9,6 +9,9 @@ const useKeyPress = function (targetKey) {
     }
   }
 
+
+  //setting up listener
+
   const upHandler = ({ key }) => {
     if (key === targetKey) {
       setKeyPressed(false);
